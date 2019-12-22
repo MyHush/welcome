@@ -10,20 +10,39 @@ Hush embraces Open Source and Free Software to allow people to Speak And Transac
 
 ## Hush Software
 
-### hushd
+The Github organization for Hush is [here](https://github.com/MyHush/)
 
-### SilentDragon
+### hushd - full node
 
-### SilentDragonLite
+https://github.com/myhush/hush3
 
-### SilentDragonAndroid
+### SilentDragon - full node GUI
+
+https://github.com/myhush/SilentDragon
+
+### SilentDragonLite - lite node GUI
+
+https://github.com/myhush/SilentDragonLite
+
+### SilentDragonAndroid - Android app
+
+https://github.com/myhush/SilentDragonAndroid
 
 ## Hush Social Media
 
-Discord
-Twitter
+[Discord](https://myhush.org/discord)
+[Twitter](https://myhush.org/twitter)
 Telegram
 Telegram RU
 
 ## Hush Products
 
+### Coins
+### Hoodies
+### Stickers
+### Pens
+### DragonHead
+
+## Security Issues
+
+If you believe you have found a security issue in Hush, contact Duke via Keybase: https://keybase.io/dukeleto
