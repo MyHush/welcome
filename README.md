@@ -32,8 +32,9 @@ https://github.com/myhush/SilentDragonAndroid
 
 [Discord](https://myhush.org/discord)
 [Twitter](https://myhush.org/twitter)
-Telegram
-Telegram RU
+[Telegram](https://t.me/hush_coin)
+[Telegram RU](https://t.me/hushrus)
+[Reddit](https://reddit.com/r/myhush)
 
 ## Hush Products
 
